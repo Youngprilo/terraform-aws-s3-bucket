@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform variables
+terraform.tfvars
+*.tfvars
+
+# Terraform lock file (optional)
+.terraform.lock.hcl
+
+# Sensitive keys
+*.pem
+*.key
