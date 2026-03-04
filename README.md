@@ -6,6 +6,7 @@ The goal is to manage cloud resources through **Infrastructure as Code (IaC)** r
 Terraform is used to define the desired infrastructure state and automate the creation and configuration of an Amazon S3 bucket.
 
 ---
+<img width="2538" height="576" alt="image" src="https://github.com/user-attachments/assets/a99b1e03-abeb-4442-a2b3-b3988c950f8f" />
 
 ## Technologies
 
